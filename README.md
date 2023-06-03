@@ -9,7 +9,7 @@ This project implements a radar-like mechanism using Arduino Uno, a servo motor,
 1. Connect the Arduino Uno to your computer.
 2. Upload the Arduino sketch provided in the `arduino` directory to the Arduino Uno.
 3. Install the Processing software on your computer.
-4. Open the `processing` directory and run the `radar.pde` sketch using Processing.
+4. Open the `processing` directory and run the `sketch_220408a.pde` sketch using Processing.
 5. Ensure that the serial port in the Processing sketch matches the one used by Arduino.
 
 ## Usage
